@@ -9,4 +9,6 @@ Lord Helmchen kontaktiert König Roland und erpresst ihn damit, dass Prinzessin 
 * Ist klein
 * Hypergeschwindigkeit
 
-Dies ist ein Sinnloses Zitat "Ick wess et nich"
+As Grace Hopper said:
+> I’ve always been more interested
+> in the future than in the past.
