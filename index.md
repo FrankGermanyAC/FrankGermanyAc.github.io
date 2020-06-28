@@ -8,3 +8,5 @@ Lord Helmchen kontaktiert König Roland und erpresst ihn damit, dass Prinzessin 
 * Ist schwarz gekleidet
 * Ist klein
 * Hypergeschwindigkeit
+
+Dies ist ein Sinnloses Zitat "Ick wess et nich"
