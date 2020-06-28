@@ -12,3 +12,5 @@ Lord Helmchen kontaktiert König Roland und erpresst ihn damit, dass Prinzessin 
 As Grace Hopper said:
 > I’ve always been more interested
 > in the future than in the past.
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/f/fb/Schutterns_Kloster-_und_Pfarrkirche.jpg">
